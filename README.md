@@ -4,8 +4,9 @@ Este projeto tem como objetivo desenvolver uma página de produtos para uma loja
 
 ## Funcionalidades
 
-  *Os produtos são consumidos de uma Fake API Platzi e exibidos com título, preço e imagem.
-  *O layout é responsivo e se adapta a dispositivos móveis e desktops.
+  -Os produtos são consumidos de uma Fake API Platzi e exibidos com título, preço e imagem.
+  
+  -O layout é responsivo e se adapta a dispositivos móveis e desktops.
 
 
 Instruções para Rodar o Projeto Localmente
