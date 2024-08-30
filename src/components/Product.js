@@ -7,7 +7,7 @@ import {CartContext} from '../contexts/CartContext';
 const Product = ({ product }) => {
   const { addToCart } = useContext(CartContext)
   //destructure products
-  const { id, images , category, title, price, description } = product;
+  const { id, images, category, title, price, description } = product;
 
   return (
     <div>
