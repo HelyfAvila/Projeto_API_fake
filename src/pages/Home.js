@@ -10,11 +10,11 @@ const Home = () => {
   const { products } = useContext(ProductContext);
   // get produtos pelas IDs das categorias
   const filteredProducts = products.filter(item => {
-    return item.category.id === 1 || 
-           item.category.id === 2 || 
-           item.category.id === 3 || 
-           item.category.id === 4 || 
-           item.category.id === 5;
+    return item.category.id === 23 || 
+           item.category.id === 24 || 
+           item.category.id === 25 || 
+           item.category.id === 26 || 
+           item.category.id === 27;
   });
    
   return (
